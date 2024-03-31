@@ -3,15 +3,7 @@ testing git commands
 
 Git Commands
 ============
-
-## Translated Versions
-- [Versão em português](READMEpt.md)
-- [Versión en español](READMEes.md)
-- [Türkçe versiyon](READMEtr.md)
-- [বাংলা সংস্করণ](READMEbn.md)
-- [हिन्दी अनुवाद](READMEhi.md)
-- [العربية](READMEar.md)
-
+https://education.github.com/git-cheat-sheet-education.pdf
 ___
 
 _A list of my commonly used Git commands_
