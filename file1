@@ -1,0 +1,6 @@
+Test data
+git commanda
+git clone
+git add .
+git commit -m "git commands"
+git push
